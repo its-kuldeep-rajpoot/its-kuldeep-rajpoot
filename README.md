@@ -4,6 +4,6 @@
 <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=FFFFFF&center=true&lines=Data+Science+Aspirant'/>
 </div>
 
-- 🔭 I’m currently working as a Data Science Intern
+- 🔭 I've previously worked as a Data Science Intern
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Data Sciencce Project
