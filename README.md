@@ -6,4 +6,4 @@
 
 - 🔭 I've previously worked as a Data Science Intern
 - 🌱 I’m currently learning Computer Vision
-- 👯 I’m looking to collaborate on Data Sciencce Project
+- 👯 I’m looking to collaborate on a Data Science Project
